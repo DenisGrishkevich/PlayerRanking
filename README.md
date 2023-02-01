@@ -1,4 +1,4 @@
-# **Player Ranking**
+# **Player Ranking (Node.js + React.js)**
 
 ### How it looks:
 
